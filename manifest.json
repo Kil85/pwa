@@ -3,7 +3,7 @@
 
 	"short_name": "PWA App",
 
-	"start_url": "/",
+	"start_url": "https://kil85.github.io/pwa/",
 
 	"display": "standalone",
 
@@ -13,7 +13,7 @@
 
 	"icons": [
 		{
-			"src": "my-apppublicavocado-8498520_640.jpg",
+			"src": "orange-2595941_640.jpg",
 
 			"sizes": "192x192",
 
