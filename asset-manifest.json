@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PWA-APP/static/css/main.bfb6958a.css",
-    "main.js": "/PWA-APP/static/js/main.7a9af25f.js",
-    "static/js/453.ed3810f9.chunk.js": "/PWA-APP/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/PWA-APP/index.html",
-    "main.bfb6958a.css.map": "/PWA-APP/static/css/main.bfb6958a.css.map",
-    "main.7a9af25f.js.map": "/PWA-APP/static/js/main.7a9af25f.js.map",
-    "453.ed3810f9.chunk.js.map": "/PWA-APP/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/pwa/static/css/main.bfb6958a.css",
+    "main.js": "/pwa/static/js/main.cfca27ba.js",
+    "static/js/453.ed3810f9.chunk.js": "/pwa/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/pwa/index.html",
+    "main.bfb6958a.css.map": "/pwa/static/css/main.bfb6958a.css.map",
+    "main.cfca27ba.js.map": "/pwa/static/js/main.cfca27ba.js.map",
+    "453.ed3810f9.chunk.js.map": "/pwa/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bfb6958a.css",
-    "static/js/main.7a9af25f.js"
+    "static/js/main.cfca27ba.js"
   ]
 }
